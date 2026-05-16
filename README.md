@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VheremuMaxwell
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently working on contributing to projects in web development 
-- 💞️ I’m looking to collaborate on interesting  Software Development Projects 
-- 📫 How to reach me +263783453569
+- 👋 Hi, I’m @stupidestbrokeguy
+- 👀 I’m interested in Creativity
+- 🌱 I’m currently working on contributing to projects in creativity
+- 💞️ I’m looking to collaborate to help people make money with creativity 
+- 📫 How to reach me +971556204604
 
 <!---
 Vheremu/Vheremu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
